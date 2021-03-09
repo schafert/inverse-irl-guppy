@@ -4,6 +4,8 @@ Animations to accompany the following manuscript:
 
 Schafer, T. L., Wikle, C. K., & Hooten, M. B. (2020). Bayesian Inverse Reinforcement Learning for Collective Animal Movement. arXiv preprint arXiv:2009.04003.
 
+The following animations show the observed trajectories for one guppy experiment and two simulations. Our modeling framework did not include a component for step length so the simulations assumed a constant step length throughout.
+
 Observed trajectories for one all male experiment
 
 ![](animations/observed_experiment.gif "Observed Male Guppy Experiment")
